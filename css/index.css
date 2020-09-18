@@ -23,7 +23,7 @@ nav{
     justify-content: space-between;
     align-items:center;
     height:60px;
-    background-color:#FFFFFF;
+    background-color:white;
     box-shadow:2px 2px 12px rgba(0,0,0,0.2);
     padding:0px 5%;
 }
@@ -60,7 +60,7 @@ nav ul li a{
     font-size:40px;
 
 }
-text-container p:nth-child(3){
+.text-container p:nth-child(3){
     font-family:Verdana;
     color:#403e3e;
     font-size:20px;
@@ -120,8 +120,8 @@ text-container p:nth-child(3){
 button:active{
     transform: scale(1.1);
 }
-.model{
-    height:560px;
+.vector{
+    height:540px;
     position: absolute;
     bottom:10px;
     left:70%;
@@ -130,7 +130,7 @@ button:active{
 .about-container{
     width:80%;
     height:330px;
-    background-color:#FFFFFF;
+    background-color:white;
     border-radius:20px;
     box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
     display:flex;

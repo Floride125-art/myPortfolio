@@ -306,8 +306,21 @@ footer p:nth-child(1){
 }
 footer p:nth-child(2){
     font-size:16px;
-    color:#7e7d7d;
+    color:#191919;
     width:600px;
     text-align:center;
 
+}
+.social-icons a{
+    width:40px;
+    height:40px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#e6e3e3;
+    margin:20px 10px;
+    border-radius:50%;
+}
+.social-icons{
+    display: flex;
 }

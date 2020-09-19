@@ -273,13 +273,19 @@ button:active{
     align-items: center;
     margin-top:10%;
 }
-.contact-me p{
+.contact-me p:nth-child(1){
     color:#FFFFFF;
     font-size: 20px;
     font-family:calibri;
     font-weight:bold;
 }
-.contact-me i{
-    color:white;
+.contact-me p:nth-child(2){
+    color:#FFFFFF;
+    font-size: 15px;
+    font-family:calibri;
     
+}
+.contact-me i{
+    color: white;
+    font-size:15px;
 }

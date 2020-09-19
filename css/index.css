@@ -273,3 +273,9 @@ button:active{
     align-items: center;
     margin-top:10%;
 }
+.contact-me p{
+    color:#FFFFFF;
+    font-size: 20px;
+    font-family:calibri;
+    font-weight:bold;
+}

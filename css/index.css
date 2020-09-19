@@ -279,13 +279,10 @@ button:active{
     font-family:calibri;
     font-weight:bold;
 }
-.contact-me p:nth-child(2){
-    color:#FFFFFF;
-    font-size: 15px;
-    font-family:calibri;
-    
-}
+
 .contact-me i{
     color: white;
-    font-size:15px;
+    font-size:18px;
+    justify-content: center;
+    text-align: justify;
 }

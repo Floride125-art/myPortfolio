@@ -7,6 +7,7 @@
 * It is one page that has all information so you will need to scroll down to view all details.
 #### The link to the live page of my portfolio: https://floride125-art.github.io/myPortfolio/
 ####### MIT License
+
 © 2020 FT E-Portfolio
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
